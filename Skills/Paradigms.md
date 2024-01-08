@@ -1,66 +1,66 @@
 ## Multi-paradigm programming
 
-Theory
-Procedural programming: 🖐️ used
-Imperative programming: 👂 heard
-Structured programming
-Non-structured programming
-Functional programming: 🎓 known
-Prototype-based programming🎓 known
-Object-oriented programming: 🔬 researched
-Object-based programming: 🙋 explained
-Generic programming: 🙋 explained
-Concurrent computing:
-Asyncronous programming:🖐️ used
-Parallel programming:👂 heard
-Reactive programming
-FRP (Functional-reactive)
-Automata-based programming:
-Domain-specific languages:
-Multi-paradigm programming: 👂 heard
-Metaprogramming: 📢 talked
-Actor model:
-OOP basics: 🖐️ used
-constructor: 🙋 explained
-new: 🙋 explained
-Static method: 📢 talked
-Method: 🔬 researched
-Async method: 🙋 explained
-Getters, Setters: 🙋 explained
-Public fields: 🚀 constructed
-Private fields: 🚀 constructed
-Field declarations: 🖐️ used
-Inheritance:
-Parent class: 📢 talked
-Polymorphism: 🔬 researched
-Abstract class: 🔬 researched
-Interface: 🎓 known
-Encapsulation: 🔬 researched
-Hidden class: 🙋 explained
-Object form: 🔬 researched
-instance: 🖐️ used
-Introspection: 🖐️ used
-Reflection: 🎓 known
-Patterns
-Singleton: 📢 talked
-Factory Method: 🎓 known
-Abstract Factory
-Adapter: 📢 talked
-Observer: 🙋 explained
-Strategy:👂 heard
-Facade
-Proxy: 🎓 known
-Chain of Responsibility
-Command
-Iterator: 👂 heard
-State:
-Bridge:👂 heard
-Builder
-Prototype: 👂 heard
-Composite: 🙋 explained
-Decorator: 🎓 known
-Flyweight: 🙋 explained
-Mediator: 👂 heard
-Memento: 🙋 explained
-Template Method: 📢 talked
-Visitor: 🙋 explained
+- Theory
+  - Procedural programming: 🖐️ used
+  - Imperative programming: 👂 heard
+  - Structured programming 
+  - Non-structured programming
+  - Functional programming: 🎓 known
+  - Prototype-based programming🎓 known
+  - Object-oriented programming: 🔬 researched
+  - Object-based programming: 🙋 explained
+  - Generic programming: 🙋 explained
+  - Concurrent computing: 
+  - Asyncronous programming:🖐️ used
+  - Parallel programming:👂 heard
+  - Reactive programming
+  - FRP (Functional-reactive)
+  - Automata-based programming:
+  - Domain-specific languages:
+  - Multi-paradigm programming: 👂 heard
+  - Metaprogramming:
+  - Actor model:
+- OOP basics
+  - constructor: 🙋 explained
+  - new: 🙋 explained
+  - Static method: 📢 talked
+  - Method: 🔬 researched
+  - Async method: 🙋 explained
+  - Getters, Setters: 🙋 explained
+  - Public fields: 🚀 constructed
+  - Private fields: 🚀 constructed
+  - Field declarations:  🖐️ used
+  - Inheritance:
+  - Parent class: 📢 talked
+  - Polymorphism: 🔬 researched
+  - Abstract class: 🔬 researched
+  - Interface: 🎓 known
+  - Encapsulation: 🔬 researched
+  - Hidden class: 🙋 explained
+  - Object form: 🔬 researched
+  - instance: 🖐️ used
+  - Introspection: 🖐️ used
+  - Reflection: 🎓 known
+- Patterns
+  - Singleton: 📢 talked
+  - Factory Method:  🎓 known
+  - Abstract Factory
+  - Adapter: 📢 talked
+  - Observer: 🙋 explained
+  - Strategy:👂 heard
+  - Facade
+  - Proxy:  🎓 known
+  - Chain of Responsibility
+  - Command
+  - Iterator: 👂 heard
+  - State:
+  - Bridge:👂 heard
+  - Builder
+  - Prototype: 👂 heard
+  - Composite: 🙋 explained
+  - Decorator:  🎓 known
+  - Flyweight
+  - Mediator: 👂 heard
+  - Memento: 🙋 explained
+  - Template Method: 📢 talked
+  - Visitor: 🙋 explained
