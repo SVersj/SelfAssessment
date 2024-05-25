@@ -19,11 +19,11 @@
   - async iterator
   - chaining
   - optional chaining
-  - IIFE
+  - IIFE: 👂 heard
   - global
-  - globalThis
+  - globalThis: 👂 heard
   - window
-  - getters and setters
+  - getters and setters: 👂 heard
   - __proto__
   - prototype
   - equality operators
@@ -33,7 +33,7 @@
   - void
   - yield
   - await
-  - template literal
+  - template literal: 👂 heard
   - strict mode
   - delete
   - in
@@ -41,24 +41,24 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
+  - if: 🙋 explained
+  - while: 🙋 explained
+  - do..while: 🙋 explained
+  - for: 🙋 explained
+  - for..in: 🎓 known
+  - for..of: 🎓 known
+  - for await: 🎓 known
+  - throw: 🎓 known
+  - break: 🎓 known
+  - continue: 🎓 known
+  - import: 👂 heard
+  - export: 👂 heard
+  - label: 👂 heard
+  - try..catch: 🙋 explained
+  - switch: 🎓 known
+  - class: 🎓 known
   - new Error
-  - with
+  - with: 🎓 known
 - Functions
   - function declaration
   - function expression
@@ -76,9 +76,9 @@
   - null
   - Proxy
   - weak collections
-  - timers
+  - timers: 👂 heard
   - EventEmitter
-  - RegExp
+  - RegExp: 👂 heard
   - Date
   - BigInt
 - Infrastructure
