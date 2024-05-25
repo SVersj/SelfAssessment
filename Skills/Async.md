@@ -4,8 +4,8 @@
   - Event loop: 👂 heard
   - try..catch:🖐️ used
   - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Async I/O: 🎓 known
+  - Thread pool: 👂 heard
   - Pattern Reactor: 🎓 known
   - CAS operations
   - epoll

@@ -3,8 +3,8 @@
 - Theory
   - Procedural programming: 🖐️ used
   - Imperative programming: 👂 heard
-  - Structured programming 
-  - Non-structured programming
+  - Structured programming: 📢 talked
+  - Non-structured programming:🎓 known
   - Functional programming: 🎓 known
   - Prototype-based programming🎓 known
   - Object-oriented programming: 🔬 researched
@@ -14,12 +14,12 @@
   - Asyncronous programming:🖐️ used
   - Parallel programming:👂 heard
   - Reactive programming
-  - FRP (Functional-reactive)
+  - FRP (Functional-reactive):🎓 known
   - Automata-based programming:
   - Domain-specific languages:
   - Multi-paradigm programming: 👂 heard
-  - Metaprogramming:
-  - Actor model:
+  - Metaprogramming: 📢 talked
+  - Actor model:🔬 researched
 - OOP basics
   - constructor: 🙋 explained
   - new: 🙋 explained
@@ -30,7 +30,7 @@
   - Public fields: 🚀 constructed
   - Private fields: 🚀 constructed
   - Field declarations:  🖐️ used
-  - Inheritance:
+  - Inheritance: 🎓 known
   - Parent class: 📢 talked
   - Polymorphism: 🔬 researched
   - Abstract class: 🔬 researched
@@ -48,18 +48,18 @@
   - Adapter: 📢 talked
   - Observer: 🙋 explained
   - Strategy:👂 heard
-  - Facade
+  - Facade: 🔬 researched
   - Proxy:  🎓 known
   - Chain of Responsibility
-  - Command
+  - Command: 🔬 researched
   - Iterator: 👂 heard
-  - State:
+  - State: 🔬 researched
   - Bridge:👂 heard
-  - Builder
+  - Builder: 🙋 explained
   - Prototype: 👂 heard
   - Composite: 🙋 explained
   - Decorator:  🎓 known
-  - Flyweight
+  - Flyweight: 🙋 explained
   - Mediator: 👂 heard
   - Memento: 🙋 explained
   - Template Method: 📢 talked

@@ -11,85 +11,85 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
+  - CommonJS modules: 👂 heard
   - ECMAScript modules
   - node:module
-  - Caching in CJS and ESM
+  - Caching in CJS and ESM: 👂 heard
   - Modules as singletons
-  - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
+  - Contexts and scripts node:vm: 🖐️ used
+  - Dependencies: npm, node_modules: 👂 heard
   - Dependencies: package.json and package lock
   - Module-based permissions model
-  - Isolation with modularity
+  - Isolation with modularity: 🖐️ used
   - Dependency injection
-  - DI containers
+  - DI containers: 👂 heard
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
+  - Command line arguments: 👂 heard
   - Node.js CLI
-  - Process-based permissions
+  - Process-based permissions: 🖐️ used
   - Graceful shutdown
   - Clustering
-  - Watch filesystem changes with --watch
+  - Watch filesystem changes with --watch: 👂 heard
 - Internal API
-  - Streams API
-  - Web Streams API
-  - Crypto API
+  - Streams API: 🖐️ used
+  - Web Streams API:🖐️ used
+  - Crypto API: 👂 heard
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
   - File system API: sync and async
   - Copy folder recursively
   - Worker threads
-  - Performance hooks
-  - Native fetch and nodejs/undici
+  - Performance hooks: 🖐️ used
+  - Native fetch and nodejs/undici: 👂 heard
   - node:async_hooks
   - AsyncLocalStorage
   - AsyncResource
-  - Deprecated domain API
-  - Node.js single executable
+  - Deprecated domain API: 🖐️ used
+  - Node.js single executable: 👂 heard
   - Stream back pressure
   - SharedArrayBuffer
   - node:worker_threads
-  - node:child_process
+  - node:child_process: 👂 heard
   - MessageChannel, MessagePort
   - BroadcastChannel
-  - Generating crypto random UUID
+  - Generating crypto random UUID: 👂 heard
   - node:url vs new URL
-  - node:assert
+  - node:assert: 🖐️ used
   - Internationalization
-  - Blob, File, Buffer, node:buffer
+  - Blob, File, Buffer, node:buffer: 👂 heard
   - Module node:zlib
-- Application structure and architecture
-  - Isolation between layer
+- Application structure and architecture: 👂 heard
+  - Isolation between layer: 🖐️ used
   - Multilayer approach
   - Separation of concerns
-  - Inversion of control
+  - Inversion of control: 👂 heard
   - Dependency injection
   - GRASP
-  - SOLID
+  - SOLID: 🖐️ used
   - GoF patterns
-  - Distributed systems
+  - Distributed systems: 👂 heard
   - Highload applications
   - Clean architecture
   - DDD
   - Message Queue
-  - CQS
-  - CQRS
+  - CQS: 👂 heard
+  - CQRS:👂 heard
   - Event sourcing
   - Load balancing
   - Serverless clouds
-  - FaaS clouds
+  - FaaS clouds: 👂 heard
   - Fat controller
-  - GoF for Node.js
+  - GoF for Node.js: 👂 heard
   - Leaking abstractions
 - Network
   - IP sticky sessions
   - Endpoint throttling
   - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
+  - TCP/SSL: 🖐️ used
+  - UDP: 🖐️ used
+  - TLS:🖐️ used
   - Websocket
   - SSE
   - HTTP/3 (QUIC)
@@ -119,10 +119,10 @@
   - Testing
   - CI/CD
   - Readable
-  - Writable
-  - Transform
-  - back pressure
-  - Buffer
+  - Writable: 👂 heard
+  - Transform: 👂 heard
+  - back pressure: 👂 heard
+  - Buffer: 👂 heard
   - Console
   - Inspector
   - Reliability
